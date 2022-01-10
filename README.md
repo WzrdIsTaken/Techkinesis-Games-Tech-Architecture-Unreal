@@ -6,6 +6,15 @@ In our Year 2 Game Engine Architecture module we had to implement some mechanics
 
 This is the Unreal version of that project and was my first time using the engine!
 
+Controls:
+   - Move: WSAD
+   - Jump: Space
+   - Launch: E 
+   - Shield: Q 
+   - Levitate: V 
+      - Levitate Up: Space
+      - Levitate Down: Left Control
+
 Viva Video:
 https://youtu.be/S1xinRp-HOE
 
